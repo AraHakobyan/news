@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="close">Close</string>
+    <string name="no_internet_dialog_text">Your Internet seems to be disabled</string>
+    <string name="try_again">Please try again</string>
+    <string name="transition_name">view</string>
+</resources>
